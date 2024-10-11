@@ -17,7 +17,3 @@ Sketch Board App is a real-time collaborative drawing web application built with
 
 ![Screenshot 1](/screenshots/screenshot1.png)
 ![Screenshot 2](/screenshots/screenshot2.png)
-
-## Installation
-
-1. Clone the repository:
