@@ -17,7 +17,7 @@ io.on("connection", (socket) => {
     // Received data
     socket.on("beginPath", (data) => {
         // data -> data from frontend
-        // Now transfer data to all connected computers
+     
         io.sockets.emit("beginPath", data);
     })
     socket.on("drawStroke", (data) => {
